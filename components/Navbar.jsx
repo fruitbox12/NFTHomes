@@ -30,7 +30,7 @@ function Navbar() {
                     <div className='flex flex-row gap-4 justify-center'>
                     <Image src={Logo} alt="Logo" width={38}/>
                     <Text fontSize={'xl'} fontWeight={'bold'} className="self-center">
-                        NFThomes
+                        zimzet
                     </Text>
                     </div>
                 </Link>
